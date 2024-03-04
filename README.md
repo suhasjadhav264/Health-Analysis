@@ -1,4 +1,3 @@
-```markdown
 # Health-Analysis
 
 ## Getting Started
