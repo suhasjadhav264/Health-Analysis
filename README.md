@@ -34,17 +34,6 @@ The tests cover the following aspects:
 - [pandas](https://pandas.pydata.org/) - A software library written for data manipulation and analysis in Python
 - BMI - Body Mass Index is a measure of body fat based on height and weight
 
-## Contributing
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-We use SemVer for versioning. For the versions available, see the tags on this repository.
-
-## Authors
-[Your Name] - Initial work - [Your GitHub profile]
-
-See also the list of [contributors](CONTRIBUTORS.md) who participated in this project.
-
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
